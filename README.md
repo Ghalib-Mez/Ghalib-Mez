@@ -6,7 +6,7 @@
 <p align="center" width="150px"> I have just started my career as a developer.</p>
 
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="[https://profile-counter.glitch.me/%7BKevinPatel04%7D/count.svg](https://profile-counter.glitch.me/%7BGhalib-craftLeProgrammeur%7D/count.svg)" alt="visitor badge"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BGhalib-craftLeProgrammeur%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalib-craftLeProgrammeur&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Ghalib-craftLeProgrammeur&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Ghalib-craftLeProgrammeur&theme=chartreuse-dark"></p>
