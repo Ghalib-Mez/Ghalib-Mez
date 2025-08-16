@@ -43,4 +43,4 @@ I work with **Supabase**, **MySQL**, and **MongoDB**, and I'm currently learning
 ---
 
 ## 📫 Contact Me
-- GitHub: [Ghalib Mez](https://github.com/ghalibcraft)
+- GitHub: [Ghalib Mez](https://github.com/Ghalib-Mez)
