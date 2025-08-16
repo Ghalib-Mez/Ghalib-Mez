@@ -55,5 +55,3 @@ I work with **Supabase**, **MySQL**, and **MongoDB**, and I'm currently learning
 
 ## 📫 Contact Me
 - GitHub: [Ghalib Mez](https://github.com/Ghalib-Mez)
-  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ghalib-Mez.Ghalib-Mez)
