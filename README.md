@@ -44,8 +44,6 @@ I work with **Supabase**, **MySQL**, and **MongoDB**, and I'm currently learning
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghalib-Mez&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghalib-Mez&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ghalib-Mez.Ghalib-Mez)
 ---
 
 ## 🌱 Currently Learning
@@ -57,3 +55,5 @@ I work with **Supabase**, **MySQL**, and **MongoDB**, and I'm currently learning
 
 ## 📫 Contact Me
 - GitHub: [Ghalib Mez](https://github.com/Ghalib-Mez)
+  
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ghalib-Mez.Ghalib-Mez)
